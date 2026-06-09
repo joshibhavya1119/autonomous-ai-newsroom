@@ -75,6 +75,9 @@ Supabase Storage
         ▼
 Gmail Newsletter Delivery
 ```
+## Workflow Preview
+
+![Workflow](workflow.png)
 
 ---
 
